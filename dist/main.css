@@ -1,2 +1,5 @@
 body {
   background: red; }
+  body .container img {
+    height: 100px;
+    width: 100px; }
